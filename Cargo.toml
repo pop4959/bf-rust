@@ -1,0 +1,6 @@
+[package]
+name = "bfc"
+version = "0.1.0"
+authors = ["pop4959 <pop4959@gmail.com>"]
+edition = "2018"
+[dependencies]
